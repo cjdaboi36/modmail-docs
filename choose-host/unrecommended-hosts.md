@@ -34,6 +34,18 @@ description: These hosts are hosts we, and members of our community have had lit
 - [Website](https://discordbothosting.com/)
 - Pterodactyl based host that can have issues with ratelimits due to shared IP addresses and reasons that have been listed below.
 
+### Kairo Hositing
+- Discord Only
+- Kairo Hosting is a discord server based hosting provider that provides free hosting for Modmail bots. However, the Modmail team was provided evidence that the host expressed what is in our opinion, poor security hygiene, by failing to isolate the filesystems of bots. This allows any user hosting with Kairo hosting to access all files, including token and database connection details of all other bots hosted by this provider. This is a major security risk, with this, we have no choice but to not recommend this host.
+
+<details>
+
+<summary>1x Screenshot</summary>
+
+<figure><img src"../.gitbook/assets/Discord_jqmKMh1cR9.png" alt="Commands can be used to see file directory contents, this image shows the output of these commands."></figure>
+
+</details>
+
 {% hint style="danger" %}
 ### Why These Are Not Recommended
 These hosts generally:
