@@ -42,7 +42,7 @@ description: These hosts are hosts we, and members of our community have had lit
 
 <summary>1x Screenshot</summary>
 
-![Image](../.gitbook/assets/Discord_jqmKMh1cR9.png)
+![The eval command can be used to access the local system, including all files on the computer, and the files for other bots.](../.gitbook/assets/Discord_jqmKMh1cR9.png)
 
 </details>
 
