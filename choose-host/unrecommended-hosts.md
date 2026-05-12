@@ -42,7 +42,7 @@ description: These hosts are hosts we, and members of our community have had lit
 
 <summary>1x Screenshot</summary>
 
-<figure><img src"../.gitbook/assets/Discord_jqmKMh1cR9.png" alt="Commands can be used to see file directory contents, this image shows the output of these commands."></figure>
+<figure><img src"../../.gitbook/assets/Discord_jqmKMh1cR9.png" alt="Commands can be used to see file directory contents, this image shows the output of these commands."></figure>
 
 </details>
 
